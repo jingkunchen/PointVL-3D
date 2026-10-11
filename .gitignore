@@ -1,0 +1,9 @@
+*data*
+*output*
+*ckpt*
+*.log
+models
+*.whl
+point_bert
+Pointnet2_PyTorch
+pytorch3d
